@@ -3,3 +3,6 @@ C:\Users\user\Documents\randomrepo2\Folaketwo2801Repo\FolakescodingBasicssolutio
 C:\Users\user\Documents\randomrepo2\Folaketwo2801Repo\FolakescodingBasicssolution\FolakescodingBasics\bin\Debug\FolakescodingBasics.pdb
 C:\Users\user\Documents\randomrepo2\Folaketwo2801Repo\FolakescodingBasicssolution\FolakescodingBasics\obj\Debug\FolakescodingBasics.exe
 C:\Users\user\Documents\randomrepo2\Folaketwo2801Repo\FolakescodingBasicssolution\FolakescodingBasics\obj\Debug\FolakescodingBasics.pdb
+C:\Users\user\Desktop\FolaRepoYear2\FolaAutomationRepo\FolakescodingBasicssolution\FolakescodingBasics\bin\Debug\FolakescodingBasics.exe.config
+C:\Users\user\Desktop\FolaRepoYear2\FolaAutomationRepo\FolakescodingBasicssolution\FolakescodingBasics\obj\Debug\FolakescodingBasics.exe
+C:\Users\user\Desktop\FolaRepoYear2\FolaAutomationRepo\FolakescodingBasicssolution\FolakescodingBasics\obj\Debug\FolakescodingBasics.pdb
