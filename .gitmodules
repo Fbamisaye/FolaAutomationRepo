@@ -1,0 +1,3 @@
+[submodule "TEST/NewRepo"]
+	path = TEST/NewRepo
+	url = https://github.com/Fbamisaye/FolaAutomationRepo.git

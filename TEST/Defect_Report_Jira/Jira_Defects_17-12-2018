@@ -1,0 +1,4 @@
+Issue	Type,Issue	key,Issue	id,Summary,Assignee,Reporter,Priority,Status,Resolution,Created,Updated,Due	date																				
+Bug,YA-3,10192,User	unable	to	Launch	Application,,fola.bamisaye,Medium,To	Do,,17/Dec/18	4:08	AM,17/Dec/18	4:08	AM,															
+Bug,YA-2,10191,Test	to	confirm	that	app	is	NOT	supported	by	IE6.0328.4.3	Test	to	confirm	that	app	is	NOT	supported	by	IE6.,fola.bamisaye,fola.bamisaye,Medium,To	Do,,17/Dec/18	3:26	AM,17/Dec/18	3:26	AM,
+Bug,YA-1,10190,User	is	unable	to	log	in	with	valid	username	and	password,fola.bamisaye,fola.bamisaye,Medium,Done,Done,13/Dec/18	5:30	AM,17/Dec/18	2:54	AM,										
